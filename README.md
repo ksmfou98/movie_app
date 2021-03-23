@@ -3,7 +3,7 @@
 
 접속 방법 : https://ksmfou98.github.io/movie_app/
 
-## 소감
+## 강의 소감
 
 html/css/js의 기초를 다진 뒤 프레임 워크를 공부하려고 React vs Vue를 고민하다가 React로 결정 하였다.   
 그동안 내가 알던 방식은 html로 웹 구조를 만들고, css로 디자인을 한 뒤 , js로 기능을 넣어주는 것 이였는데,  
