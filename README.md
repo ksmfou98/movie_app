@@ -1,7 +1,26 @@
 # Movie App
 
 
-접속 방법 : https://ksmfou98.github.io/movie_app/
+접속 방법 : https://ksmfou98.github.io/movie_app/   
+
+## 설치  
+
+<b>1. 프로젝트 클론</b>  
+```
+$ git clone "https://github.com/ksmfou98/movie_app.git"
+```  
+
+<b>2. 프로젝트 설치</b>
+```
+$ npm install
+```    
+
+<b>3. 프로젝트 실행</b>
+```
+$ npm start
+```  
+
+<br />
 
 ## 강의 소감
 
